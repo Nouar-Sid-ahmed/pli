@@ -1,0 +1,50 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@rendu-git.etna-alternance.net:module-9133/activity-49766/group-985220.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg/core": "^0.11.0",
+    "@ffmpeg/ffmpeg": "^0.11.3",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "elasticsearch": "13.3.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "express-validation": "^4.1.0",
+    "flatted": "^3.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "get-video-dimensions": "^1.0.0",
+    "gulp-concat": "^2.6.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "2.4.1",
+    "koa-joi-validate": "0.5.1",
+    "koa-router": "7.2.1",
+    "mkdirp": "^1.0.4",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.4",
+    "moongoose": "^0.0.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.7.8",
+    "react-scripts": "^2.1.8",
+    "request": "^2.88.2",
+    "universal-cookie": "^4.0.4",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

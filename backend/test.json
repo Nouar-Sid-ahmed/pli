@@ -1,0 +1,132 @@
+{
+    "chemin" : "items[i].",
+    "info" : {
+      "id":"id",
+      "description":"description",
+      "url_spotify":"external_urls.spotify",
+      "image":"images[0].url",
+      "name":"name",
+      "total_tracks":"tracks.total"
+    },
+    "items": [
+      {
+        "name": "Kali ",
+        "owner": {
+          "display_name": "Sid Nouar",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31syn2qzez2z5mfktsgpp6kjddm4"
+          },
+          "href": "https://api.spotify.com/v1/users/31syn2qzez2z5mfktsgpp6kjddm4",
+          "id": "31syn2qzez2z5mfktsgpp6kjddm4",
+          "type": "user",
+          "uri": "spotify:user:31syn2qzez2z5mfktsgpp6kjddm4"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ODAsMmRiMjEzYTMzZWE4MmVhZWU5NWZiOGU4ZWY5OTUyYzhjMDNhNzFiNA==",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/0C895dInmNAp2xCGQWmSMS/tracks",
+          "total": 66
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0C895dInmNAp2xCGQWmSMS"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/2qPGarxAVfUQUxO3eilcME"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2qPGarxAVfUQUxO3eilcME",
+        "id": "2qPGarxAVfUQUxO3eilcME",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b273b50f344c7c5bf2e47981c4ceab67616d0000b273c31d3c870a3dbaf7b53186ccab67616d0000b273d843fabb75fef14010e30caeab67616d0000b273e37dce36d17a97c3011d1068",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b273b50f344c7c5bf2e47981c4ceab67616d0000b273c31d3c870a3dbaf7b53186ccab67616d0000b273d843fabb75fef14010e30caeab67616d0000b273e37dce36d17a97c3011d1068",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b273b50f344c7c5bf2e47981c4ceab67616d0000b273c31d3c870a3dbaf7b53186ccab67616d0000b273d843fabb75fef14010e30caeab67616d0000b273e37dce36d17a97c3011d1068",
+            "width": 60
+          }
+        ],
+        "name": "it was all a dream.",
+        "owner": {
+          "display_name": "Shenron",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/ezy29ed47800s3mvykwp90hw8"
+          },
+          "href": "https://api.spotify.com/v1/users/ezy29ed47800s3mvykwp90hw8",
+          "id": "ezy29ed47800s3mvykwp90hw8",
+          "type": "user",
+          "uri": "spotify:user:ezy29ed47800s3mvykwp90hw8"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTE4MSw4N2FiOWUwNjRlNjdiZmE5ZjdkYmFiZGQyMGQ4ZWVkYTYxMGY2Y2Yz",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/2qPGarxAVfUQUxO3eilcME/tracks",
+          "total": 407
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2qPGarxAVfUQUxO3eilcME"
+      },
+      {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/1K3Qqpf7xZNsmw0UblfCek"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1K3Qqpf7xZNsmw0UblfCek",
+        "id": "1K3Qqpf7xZNsmw0UblfCek",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b27332d6aa9f9b1810e7fb8aaca5ab67616d0000b2735ed2c371bc114cab390a41a7ab67616d0000b273891a751249562e3303cec1c7ab67616d0000b273d34da31b55f52c4c06a12dff",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b27332d6aa9f9b1810e7fb8aaca5ab67616d0000b2735ed2c371bc114cab390a41a7ab67616d0000b273891a751249562e3303cec1c7ab67616d0000b273d34da31b55f52c4c06a12dff",
+            "width": 300
+          },
+          {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b27332d6aa9f9b1810e7fb8aaca5ab67616d0000b2735ed2c371bc114cab390a41a7ab67616d0000b273891a751249562e3303cec1c7ab67616d0000b273d34da31b55f52c4c06a12dff",
+            "width": 60
+          }
+        ],
+        "name": "Calme",
+        "owner": {
+          "display_name": "Sid Nouar",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/31syn2qzez2z5mfktsgpp6kjddm4"
+          },
+          "href": "https://api.spotify.com/v1/users/31syn2qzez2z5mfktsgpp6kjddm4",
+          "id": "31syn2qzez2z5mfktsgpp6kjddm4",
+          "type": "user",
+          "uri": "spotify:user:31syn2qzez2z5mfktsgpp6kjddm4"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "OCw5NThmNWViM2YyOTYwNWYwMDczOTgyNmNjYmJiNWRhNjA2ODBkNDE4",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/1K3Qqpf7xZNsmw0UblfCek/tracks",
+          "total": 7
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1K3Qqpf7xZNsmw0UblfCek"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 3
+  }
